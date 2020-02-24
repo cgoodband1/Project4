@@ -1,12 +1,4 @@
 /**
- *  In this class we create a node class that creates the nodes storing the country
- *  name and GDP per Capita. The create a constuctor that creates the tree.
- *  Next is the insert method that inserts the nodes based on the Name of the countries.
- *  Then the find method searches for nodes based on the name and prints how many 
- *  nodes are visited. The delete method works with the getSuccessor method to delete
- *  a Node and recreate the tree as a correct binary search tree. Print Inorder, Preorder 
- *  and Postorder traverse the tree in the given ways. Insert bestelement and remove are all used to 
- *  print the top and bottom 10 countires by GDP per Capita
  * 
  * @author <Chase Goodband>
  * @version<12/6/2019>
