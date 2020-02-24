@@ -4,14 +4,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.regex.Pattern;
 /**
- *The project5 class implements the other classes with the tree object.  first the 
- *class inputs the Countries4.csv and splits the data by the comma and the splits the data into 
- *separate fields and finds the GDP per Capita. It then traverses the tree inorder. 
- *Then it deletes Australia, Norway, and Tunisia. The traverses the tree with preorder
- *Next it searches for Sri Lanka, North Cyprus and, Tunisia. Then we delete 
- *Malawi, Somalia, Ireland, Greece and, Singapore. Then we traverse the tree in postOrder
- *and print the bottom 10 and top 10 countries by GDP per Capita.
- * 
  * @author <Chase Goodband>
  * @version<12/6/2019>
  * 
